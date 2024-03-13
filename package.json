@@ -1,0 +1,19 @@
+{
+  "name": "swifturl",
+  "version": "1.0.0",
+  "description": "This module helps you to shorten url just like tinyurl",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irohan4792/Swift_url_npm_module.git"
+  },
+  "author": "Rohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irohan4792/Swift_url_npm_module/issues"
+  },
+  "homepage": "https://github.com/irohan4792/Swift_url_npm_module#readme"
+}
